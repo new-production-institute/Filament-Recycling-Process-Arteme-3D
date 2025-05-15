@@ -1,0 +1,6 @@
+| No. | Material                                      | New/Old Mix | Cycle No. | P  | Temp. | Extr. rpm | Fan Speed | Tolerance Range | Rating 1–10 | Sensor Distance | Fan Distance | Fan Angle                    |
+|-----|-----------------------------------------------|-------------|-----------|----|-------|------------|-----------|------------------|--------------|------------------|--------------|------------------------------|
+| 1   | PLA-New                                       | 100/0       | 1         | 22 | 177   | 14         | 35        | 0.05             | 8            |                  |              |                              |
+| 2   | PLA-New with 4% Blue and 2% White Masterbatch | 100/0       | 1         | 17 | 181   | 18         | 17        | 0.07             | 8            | 120              | 18           | Almost parallel, slightly off |
+| 3   | PLA-New with 4% Blue and 2% White Masterbatch | 100/0       | 1         | 21 | 179   | 18         | 41        | 0.04             | 10           | 120              | 18           | Almost parallel, slightly off |
+| 4   | PLA-New with 3% Black Masterbatch             | 100/0       | 1         | 27 | 185   | 14.5       | 41        | 0.05             | 8            | 240 rough        | 20           | Almost parallel, slightly off |
