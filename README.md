@@ -1,7 +1,7 @@
 # Filament Recycling Process - Arteme3D
 ![Logo](images/main_setup.jpg)
 ## Introduction
-This documentation describes the filament recycling process currently established in our OpenLab at Helmut Schmidt University. It is based on two Arteme-3D MK3 Extruders. Together with a shredder and a dehydrator, it is now possible to produce recycled and new filament of industrial quality at the OpenLab.
+This documentation describes the filament recycling process currently established in our [OpenLab](https://openlab.hamburg/de/openlabs/hamburg/) at Helmut Schmidt University. It is based on two Arteme-3D MK3 Extruders. Together with a shredder and a dehydrator, it is now possible to produce recycled and new filament of industrial quality at the OpenLab.
 
 This repository provides all the necessary information you need to work with the setup. Here, you can find extruder settings for different material compositions and basic step-by-step instructions on how to operate the machines.
 
