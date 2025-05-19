@@ -74,7 +74,7 @@ Leftover material from the previous run needs to be purged. Start extruding—af
 
 <img src="images/Image (18).jpg" width="500"/>
 
-<img src="images/Image (24).jpg" width="500"/>
+<img src="images/Image (24).JPG" width="500"/>
 
 ### 3.3 Setting extrusion parameters
 Access settings via the control wheel. Enter values from the [Extruder Settings Table](Extrudersettings.md). Scroll to a value, press the knob to edit, turn to adjust, and press again to confirm.
@@ -104,7 +104,7 @@ Once filament is extruding consistently (and winding into a clean spiral on the 
 1. Through the guide (marked in the red oval).
 2. Into the pulling unit.
 
-<img src="images/Image (23).jpg" width="500"/>
+<img src="images/Image (23).JPG" width="500"/>
 
 ### 4.2 Re-inserting the sensor
 Go to the control panel. Turning the wheel changes pulling speed.
