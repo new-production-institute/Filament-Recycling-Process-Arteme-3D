@@ -51,7 +51,7 @@ Before adding your new mixture, remove any leftover material from the funnel:
 3. Let the leftover granulate drain out into a cup or bag.
 4. Use a vacuum or brush to remove any remaining particles.
 
-<img src="images/Image (22).jpg" width="500"/>
+<img src="images/Image (22).JPG" width="500"/>
 
 ### 2.6 Filling the extruder
 Pour the mixed pellets into the clean funnel.  
