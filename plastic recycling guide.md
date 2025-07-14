@@ -1,5 +1,4 @@
 # Step-by-step guide: Plastic recycling with the Arteme 3D MK3
-<img src="images/recycling_setup.jpg" width="500" />
 
 <blockquote style="color: red; border-left: 4px solid red; padding-left: 10px;">
 If anything in this guide does not work as described or you feel unsure at any step, please do not hesitate to ask the staff around you for help!
@@ -22,28 +21,19 @@ Not all plastics are suitable for recycling with the Arteme 3D MK3. Use only:
 1. Remove all contaminants like dust, hair, or foreign objects
 2. Wash the material with warm water and mild detergent if needed
 3. Let it dry completely (at least 24 hours)
+4. **Optional:** You can use a drying oven for faster drying, but it's not mandatory - experiment to find what works best for your material
 
-<img src="images/cleaning_plastic.jpg" width="500" />
-
-### 1.3 Shredding the material
-The material must be shredded into small, uniform pieces:
+### 1.3 Shredding and sieving the material
+The material must be shredded into small, uniform pieces and then sieved:
 
 1. Use a **plastic shredder** or **scissors** for small quantities
 2. Target size: **2-5 mm** particles
-3. Avoid pieces that are too large and could clog the extruder
+3. **Sieve the shredded material** through a fine mesh to remove oversized pieces and dust
+4. Only use particles that pass through the sieve consistently
 
-### 1.4 Sieving the shredded material
-**Sieving is essential** for successful recycling:
+> **Important:** Always sieve your shredded material! Unsieved material can cause extruder jams.
 
-1. Use a **fine mesh sieve** (2-3 mm openings) to separate particles
-2. Remove all pieces that are too large or oddly shaped
-3. Discard any dust or particles smaller than 1 mm (these can cause feeding problems)
-
-> **Important:** Never skip the sieving step! Unsieved material is the most common cause of extruder jams and poor filament quality.
-
-> **Tip:** Uniformly shredded and sieved particles lead to better melting quality and fewer clogs.
-
----
+> **Note:** Recycled material may require adjusted extruder settings. Check the [Extruder Settings Table](Extrudersettings.md) for specific parameters for recycled materials.
 
 ## 2. Extruder settings for recycled material
 
@@ -62,8 +52,6 @@ Set the **Extruder RPM** 10-20% lower than with fresh material:
 ### 2.3 Special settings
 - **Fan speed:** Reduce by 20-30% for better melting quality
 - **Pulling speed:** Pull slower for more stable diameter
-
-<img src="images/extruder_settings_recycled.jpg" width="500"/>
 
 ---
 
@@ -84,8 +72,6 @@ Recycled material requires more intensive monitoring:
 - Air bubbles or inclusions
 - Color streaks or spots
 - Diameter fluctuations
-
-<img src="images/monitoring_recycled.jpg" width="500"/>
 
 ### 3.3 Troubleshooting
 When problems occur with recycled material:
@@ -117,8 +103,6 @@ Check the filament for:
 - No visible contaminants
 - No air bubbles or voids
 
-<img src="images/quality_check.jpg" width="500"/>
-
 ### 4.3 Strength testing
 Test the strength of the recycled filament:
 1. Carefully bend a 10 cm long sample
@@ -148,8 +132,6 @@ Recycled filament is more susceptible to moisture:
 1. Store in **airtight containers** with silica gel
 2. Use within **6 months**
 3. If problems occur: dry filament at 40°C for 4-6 hours
-
-<img src="images/storage_recycled.jpg" width="500"/>
 
 ---
 
